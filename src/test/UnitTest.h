@@ -8,10 +8,10 @@
 
 #include "../main/graph/Graph.h"
 
-class UnitTest {
+static class UnitTest {
 private:
-    static int const numberOfTests=1000;
-    static int const numberOfTestsWithMoreVertexes=500;
+    static int const numberOfTests=10;
+    static int const numberOfTestsWithMoreVertexes=5;
     static int const maxCyclesNumber=1000;
     static int const maxCyclesLength=1000;
 

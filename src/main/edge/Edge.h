@@ -22,4 +22,4 @@ struct Edge {
 };
 
 
-#endif// HEIRHOLZERS_ALGORITHM_EDGE_H
+#endif HEIRHOLZERS_ALGORITHM_EDGE_H

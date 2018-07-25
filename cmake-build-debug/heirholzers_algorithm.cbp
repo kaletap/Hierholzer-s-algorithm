@@ -24,8 +24,6 @@
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/Kira/CLionProjects/hierholzers-algoritm/node"/>
-					<Add directory="C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
@@ -49,8 +47,6 @@
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/Kira/CLionProjects/hierholzers-algoritm/node"/>
-					<Add directory="C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
@@ -88,19 +84,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph/Graph.cpp">
+		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/src/main/edge/Edge.cpp">
 			<Option target="heirholzers_algorithm"/>
 		</Unit>
-		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph/Graph.h">
+		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/src/main/edge/Edge.h">
 			<Option target="heirholzers_algorithm"/>
 		</Unit>
-		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/main.cpp">
+		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/src/main/graph/Graph.cpp">
 			<Option target="heirholzers_algorithm"/>
 		</Unit>
-		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/node/Node.cpp">
+		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/src/main/graph/Graph.h">
 			<Option target="heirholzers_algorithm"/>
 		</Unit>
-		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/node/Node.h">
+		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/src/main/main.cpp">
+			<Option target="heirholzers_algorithm"/>
+		</Unit>
+		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/src/test/UnitTest.cpp">
+			<Option target="heirholzers_algorithm"/>
+		</Unit>
+		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/src/test/UnitTest.h">
 			<Option target="heirholzers_algorithm"/>
 		</Unit>
 		<Unit filename="C:/Users/Kira/CLionProjects/hierholzers-algoritm/CMakeLists.txt">

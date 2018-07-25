@@ -177,6 +177,12 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Dependencies for target
+Graph_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+Node_LIB_DEPENDS:STATIC=
+
 //Value Computed by CMake
 heirholzers_algorithm_BINARY_DIR:STATIC=C:/Users/Kira/CLionProjects/hierholzers-algoritm/cmake-build-debug
 

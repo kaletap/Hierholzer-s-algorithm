@@ -6,5 +6,5 @@ CXX_FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -IC:\Users\Kira\CLionProjects\hierholzers-algoritm\node -IC:\Users\Kira\CLionProjects\hierholzers-algoritm\graph 
+CXX_INCLUDES = 
 

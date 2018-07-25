@@ -31,4 +31,4 @@ public:
     bool isEulerGraph();
 };
 
-#endif// HEIRHOLZERS_ALGORITHM_GRAPH_H
+#endif HEIRHOLZERS_ALGORITHM_GRAPH_H
