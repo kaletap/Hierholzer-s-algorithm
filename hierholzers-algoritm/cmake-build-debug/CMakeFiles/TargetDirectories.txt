@@ -1,0 +1,3 @@
+/home/przemyslaw/Cpp/hierholzers-algoritm/hierholzers-algoritm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/przemyslaw/Cpp/hierholzers-algoritm/hierholzers-algoritm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/przemyslaw/Cpp/hierholzers-algoritm/hierholzers-algoritm/cmake-build-debug/CMakeFiles/heirholzers_algorithm.dir

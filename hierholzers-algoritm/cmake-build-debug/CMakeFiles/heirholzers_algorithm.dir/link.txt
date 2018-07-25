@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/heirholzers_algorithm.dir/src/main/edge/Edge.cpp.o CMakeFiles/heirholzers_algorithm.dir/src/main/graph/Graph.cpp.o CMakeFiles/heirholzers_algorithm.dir/src/main/main.cpp.o CMakeFiles/heirholzers_algorithm.dir/src/test/UnitTest.cpp.o  -o heirholzers_algorithm 
