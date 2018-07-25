@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph/Graph.cpp
+iostream
+-
+stack
+-
+Graph.h
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph/Graph.h
+
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph/Graph.h
+../node/Node.h
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/node/Node.h
+
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/main.cpp
+iostream
+-
+stack
+-
+node/Node.h
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/node/Node.h
+graph/Graph.h
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/graph/Graph.h
+
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/node/Node.cpp
+iostream
+-
+Node.h
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/node/Node.h
+
+C:/Users/Kira/CLionProjects/hierholzers-algoritm/node/Node.h
+iostream
+-
+
